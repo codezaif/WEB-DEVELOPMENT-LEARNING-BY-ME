@@ -1,0 +1,7 @@
+body {
+  background-color: rgb(87, 102, 115);
+}
+img:hover {
+  cursor: pointer;
+  width: 300px;
+}

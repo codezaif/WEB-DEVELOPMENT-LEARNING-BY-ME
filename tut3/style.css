@@ -1,0 +1,32 @@
+body {
+  background-color: grey;
+}
+div {
+  background: black;
+  color: white;
+}
+ul {
+  background-color: thistle;
+  text-decoration: none;
+  list-style: none;
+  margin: auto;
+  padding: 30px;
+}
+a {
+  color: black;
+  text-decoration: none;
+  font-size: 20px;
+}
+.secondary {
+  background-color: palevioletred;
+  margin: auto;
+}
+a:hover {
+  cursor: pointer;
+  color: white;
+  font-size: 30px;
+}
+.p {
+  margin: auto;
+  padding: 30px;
+}
